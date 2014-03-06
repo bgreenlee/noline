@@ -1,0 +1,7 @@
+[
+    { "caption": "Noline: Remove linebreaks", "command": "remove_linebreaks" },
+    { "caption": "Noline: Remove empty lines", "command": "remove_empty_lines" },
+    { "caption": "Noline: Remove whitespace before paragraphs", "command": "remove_whitespace_before_paragraphs" },
+    { "caption": "Noline: Collapse multiple spaces", "command": "collapse_multiple_spaces" },
+    { "caption": "Noline: Blammo", "command": "blammo" }
+]
